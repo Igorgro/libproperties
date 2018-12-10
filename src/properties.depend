@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525888020 source:x:\cpp\windows\properties\properties.cpp
+	"Properties.h"
+	<fstream>
+	<streambuf>
+	<iostream>
+
+1525886932 x:\cpp\windows\properties\properties.h
+	<string>
+	<map>
+
